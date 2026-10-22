@@ -18,6 +18,10 @@ SUPPORT_FILES = frozenset({
     ".github/PULL_REQUEST_TEMPLATE.md", ".github/workflows/check.yml",
     "scripts/check.py", "scripts/review_publication.py",
     "scripts/test_publication_review.py",
+    "components/saved-resource-diagnostics/README.md",
+    "components/saved-resource-diagnostics/policy_saved_null_certificate.py",
+    "components/saved-resource-diagnostics/policy_saved_reason_memory.py",
+    "components/saved-resource-diagnostics/tests/test_saved_resource_diagnostics.py",
 })
 SOURCE_SUFFIXES = frozenset({".py", ".as", ".c", ".h", ".cs", ".ps1", ".js", ".cjs"})
 FORBIDDEN_PARTS = frozenset({

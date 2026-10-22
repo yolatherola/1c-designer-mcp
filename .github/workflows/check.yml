@@ -23,3 +23,7 @@ jobs:
         run: python -B scripts/review_publication.py
       - name: Test publication guard with synthetic inputs
         run: python -B -m unittest discover -s scripts -p 'test_*.py'
+      - name: Test standalone saved-resource diagnostics with synthetic C
+        env:
+          CC: cc
+        run: python -B -m unittest discover -s components/saved-resource-diagnostics/tests -p 'test_*.py' -v
