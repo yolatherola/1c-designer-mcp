@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-21T03:56:47.332Z",
+  "snapshot_sha256": "0f4d81b07047fdda976522c0028d80bb0c368557eaf02f47085e36f6a82363ea",
+  "check_script_sha256": "5b02b24b2e0282192fa8546a0efc5f6eafe265eb47edb044ed98cbd208556bc1",
+  "result": {
+    "source_files": 332,
+    "python_files_parsed": 246,
+    "tests": 54,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "origin_verified": true,
+    "scope": "synthetic-codec-planner-transport-only",
+    "native_runtime_tested": false,
+    "mcp_server_started": false,
+    "native_calls_authorized": false
+  },
+  "publish_ready": false,
+  "limitations": [
+    "license-not-selected",
+    "project-profile-and-bootstrap-not-yet-decoupled",
+    "standalone-native-runtime-not-tested"
+  ]
+}

@@ -1,0 +1,2007 @@
+{
+  "schema_version": 1,
+  "project": "1c-designer-mcp",
+  "captured_at": "2026-10-21T03:52:08.717Z",
+  "origin_kind": "working-tree-snapshot-not-a-server-commit",
+  "original_files_unchanged": true,
+  "runtime_data_included": false,
+  "third_party_binaries_included": false,
+  "license": null,
+  "portable_native_runtime_verified": false,
+  "public_release_approved": false,
+  "files": [
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-CaptureFreshV81.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-CaptureFreshV81.ps1",
+      "sha256": "fcf8ddf3b5138bea0c88f7156c3f176b37bf7e9e6c2719f36d54b7e77bc13d0a",
+      "bytes": 10928
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-CaptureNotificationV56.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-CaptureNotificationV56.ps1",
+      "sha256": "7dd0028be5c38091a446069f4228b1b7b87facc804e849cbb06f751337a4fc3a",
+      "bytes": 8234
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-CaptureSourceCommand.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-CaptureSourceCommand.ps1",
+      "sha256": "2b4363da4b3d519d40ac470f7380a8cbed43dc936f80233d2242fbe094cee2dd",
+      "bytes": 3108
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-ControllerCaptureV44.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-ControllerCaptureV44.ps1",
+      "sha256": "ed8b5e227933273e7bd8de2c04d1fd233788b2d275a7dc2afccc127a17b5e6c3",
+      "bytes": 6423
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-GoldOwnedConstantV99.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-GoldOwnedConstantV99.ps1",
+      "sha256": "8212d0f01abb124b6b1332cc14a96dbaf57fe3f4402b78ec3febd9c99efe6805",
+      "bytes": 11021
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-GoldOwnedDocumentStructureV139.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-GoldOwnedDocumentStructureV139.ps1",
+      "sha256": "6c8479ded18ffdc632bb0ddd67c74b20f7c9db29e5cbb1d1689043ede38b2a5a",
+      "bytes": 15642
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-GoldOwnedEmptyObjectsV130.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-GoldOwnedEmptyObjectsV130.ps1",
+      "sha256": "35803d065654dad5b72aa7f93154aca6eb62da9d1b4bab996aeab252b09e965c",
+      "bytes": 15299
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-GoldOwnedFullObjectModuleV150.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-GoldOwnedFullObjectModuleV150.ps1",
+      "sha256": "d318c84587394b99259ee712071827c567bcc4feb66bd2358d5dc92bdeaab9a4",
+      "bytes": 16395
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-GoldOwnedManagedFormV107.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-GoldOwnedManagedFormV107.ps1",
+      "sha256": "3b2ad6232da84d2148fb68116cedb1531ab373dc972e48e35defc943f3501a2b",
+      "bytes": 15118
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-GoldOwnObjectModuleV78.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-GoldOwnObjectModuleV78.ps1",
+      "sha256": "ac2f112a5d0e156c2f8cc62bf177dc464a2b418cbdd3f1ec25c9cacee0eab33e",
+      "bytes": 8032
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-GoldOwnObjectModuleV82.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-GoldOwnObjectModuleV82.ps1",
+      "sha256": "3485407f4c57c6c9f51b800ccf5aadac436cf689a30c1d640e8a7fdcf57d942e",
+      "bytes": 8273
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-ManagedInputRecordV145.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-ManagedInputRecordV145.ps1",
+      "sha256": "f8ed93189ad72b0cd612ac89d0743935df6e100d4b9e92661f166350c8c57917",
+      "bytes": 16131
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/Invoke-NativeCommand.ps1",
+      "origin_path": "tools/1c/designer-bridge/Invoke-NativeCommand.ps1",
+      "sha256": "d69481fd3246340b625707bf4776633e12e3172820e84581f54ec31c3638e1ad",
+      "bytes": 25690
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/LivePipeClient.cs",
+      "origin_path": "tools/1c/designer-bridge/LivePipeClient.cs",
+      "sha256": "a7d5668aaeaf9fa3f1b0216cbc8f0ba9717343519de0cab0b8f7992106941878",
+      "bytes": 9554
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/__init__.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/__init__.py",
+      "sha256": "a55930d72ea4bc7eea5ef9f722d63b8e8da741027a34dac2325a8ef7557078c6",
+      "bytes": 254
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/active_publication.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/active_publication.py",
+      "sha256": "9361cdce7f6fb74a5ff212510c68d6aa58999df72a42f6f7101502a3c83300cb",
+      "bytes": 19066
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/editor_activation_transport.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/editor_activation_transport.py",
+      "sha256": "155c9d2bca98a7d4c68f7f460d054bcb614989080b7af96b5f55650cab8645b0",
+      "bytes": 13745
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/editor_capture.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/editor_capture.py",
+      "sha256": "e7e79a8f46139f8fe63ae9145eab2c42fe7bc87c7729540a75abe9aab77c05e0",
+      "bytes": 21006
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/editor_capture_transport.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/editor_capture_transport.py",
+      "sha256": "bca7ecb0de3414cf68ce22a7ff3321b367aab42f6ffaac049452900e8aec958e",
+      "bytes": 14216
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/editor_change_plan.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/editor_change_plan.py",
+      "sha256": "341ed4e5e42a2f674b47a799f62b0510c411c913f32ca1a2c89fdf1209762d89",
+      "bytes": 7878
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/editor_command.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/editor_command.py",
+      "sha256": "b56fa3499b7d59546c8b0a5bd68407e8437679b546c0093f0870f4881942a82c",
+      "bytes": 17999
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/editor_repository_transport.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/editor_repository_transport.py",
+      "sha256": "5b4a923288a97a7bcc02c166775e605ad0d9acb8a890d2dd60fbc8925026804d",
+      "bytes": 9690
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/editor_transport.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/editor_transport.py",
+      "sha256": "772567491fad6a0ce5f019b140eb61255a03fe3698c558d80a99f54804a74b2c",
+      "bytes": 53912
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/guardian_client.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/guardian_client.py",
+      "sha256": "a8b76c3a6c314c3bccbe07c9a56d90898d5bb01a9dd4f0839b219cd78e110ce9",
+      "bytes": 9043
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/guardian_descriptor.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/guardian_descriptor.py",
+      "sha256": "244a2cecfbd7e12796807aa10ad3d13f9b87f11de74a82cc3ed30405aca3a0b3",
+      "bytes": 12421
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/guardian_relay_server.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/guardian_relay_server.py",
+      "sha256": "09f0adf1ac100787c00d9554527c5aaa76e4b493edf05b03dfcc53d5c90dfbfa",
+      "bytes": 6490
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/guardian_service.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/guardian_service.py",
+      "sha256": "4c350782bc9cef3d5d0b74574471abee95c56faf547acd2e1424e47251b57e04",
+      "bytes": 10124
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/guardian_wire.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/guardian_wire.py",
+      "sha256": "3ca907c8f4df783cba01f63fb002e86c9cb2a262f504b785f50a9276c938a456",
+      "bytes": 7622
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/host_slot.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/host_slot.py",
+      "sha256": "bb6882c1284106199a2f184ecc971fa97d249bb13011a8a1337d4a2ae158ea94",
+      "bytes": 11183
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_gateway.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_gateway.py",
+      "sha256": "f40c3067f53fce4baf669da047c9330bf0b26e7a315435a18ed67e4894c4b0ef",
+      "bytes": 14203
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_guardian_transport.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_guardian_transport.py",
+      "sha256": "e5199fabc81bf9d4cb194c91be750593d1d18c1d16a7997f7f8fd9a768fb432d",
+      "bytes": 4419
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_guardian_wire.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_guardian_wire.py",
+      "sha256": "3cce7c5358391ab42e067d60272362cb2c9f8648790a28ccd6ae4d1b157ca2a3",
+      "bytes": 4578
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_host_slot.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_host_slot.py",
+      "sha256": "43cb29d6bb9522289a76bb0b8ba1208f9bffa9d043a7126aff21cd7dcf4db075",
+      "bytes": 5884
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_publication.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_publication.py",
+      "sha256": "e1616c3bbb544037064fa0ffa43c3fb070b7cc124061487a4113cf7775a96a96",
+      "bytes": 16399
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_server.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_server.py",
+      "sha256": "0274d9714ee2045883539f06cc3518ecabf0a45f038b12515d1a58ac5892abf0",
+      "bytes": 6282
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_session.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_session.py",
+      "sha256": "a421f915d83e95bfc9f3c2dec5778160b232afb4d2aa251d09658cdb32427851",
+      "bytes": 10054
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_source.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_source.py",
+      "sha256": "8b8c8dc805d7de3cff9aa0ff81189ea3cbff1f7d73095887cf4c3fa48b4ba0d3",
+      "bytes": 9014
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/live_wire.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/live_wire.py",
+      "sha256": "28dbc6053386099696415eb6dbc4fdf8abb9aca5790ebc91e45620d113b59ba2",
+      "bytes": 8930
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/method_context.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/method_context.py",
+      "sha256": "1fb0370558a75cc7ef3b613f8a6bcc3020bc92535f9fb0bce76c0d6e61d258c4",
+      "bytes": 11820
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/persistent_ram_bsl_analysis.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/persistent_ram_bsl_analysis.py",
+      "sha256": "5e031c4466b7571cd635d147620ab97aa46b8e9b254a29c243b67fa4f5f4def4",
+      "bytes": 8898
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/persistent_server.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/persistent_server.py",
+      "sha256": "52e15b8ff2a48153654c65e05556980bee1f3ec48cc03e15d1651cb7f7ff1320",
+      "bytes": 6442
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/ram_bsl_analysis.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/ram_bsl_analysis.py",
+      "sha256": "82f72384fd47fe54861907bf4e74fe076dee7703f91ee8f76dd713de8c394334",
+      "bytes": 23351
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/ram_wire.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/ram_wire.py",
+      "sha256": "4aa2e5c4555850633f1a2af7a0a1944b03e1c01d780f3b150e31a7b725d1776a",
+      "bytes": 4723
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_channel.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_channel.py",
+      "sha256": "91420eddd9240bb9d28e1a626f0e320edcd7efe17d6d5d00f041b1d8834b388f",
+      "bytes": 9377
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_live_server.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_live_server.py",
+      "sha256": "e52f53211b8fd8a0d8f7d878658e814cb9e445edf6894676a43ef2ad27237395",
+      "bytes": 7711
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_live_session.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_live_session.py",
+      "sha256": "a63decd08efa3a6e53c1e18b4a3f22aa3f2c1c8509d48464f39c46607c79f4fc",
+      "bytes": 17988
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_live_source.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_live_source.py",
+      "sha256": "49d2b0aa1b5a97a8a36164a408fe898fd6d7ef99618e26af0909c21a70267773",
+      "bytes": 12364
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_live_wire.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_live_wire.py",
+      "sha256": "28cbe004e96cc8e330e102d281d7fa3af185d77745d0f6c9bae7e166c969d104",
+      "bytes": 22193
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_provider.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_provider.py",
+      "sha256": "bc69ba0ed58a3e77b96ca47a1165c2eec26685a7bf727126acbdc5d63f953a20",
+      "bytes": 18515
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_receipt_observer.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_receipt_observer.py",
+      "sha256": "5ef7207201dca1bf54cc828027ff07c7d1b6caa7159c9c5feacb9cea44d5cbe6",
+      "bytes": 13696
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_server.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_server.py",
+      "sha256": "459a2f393faabc359b31aab0579d9bb6a2cd46889a911e424e0090644fc163df",
+      "bytes": 5916
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/resident_wire.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/resident_wire.py",
+      "sha256": "6d6089671de1fb7cc9fddca88fc43eb44c55bbcc5eeb766fed8387fa32966e2d",
+      "bytes": 19860
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/saved_source.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/saved_source.py",
+      "sha256": "6aae709b2eb6e112ebc049f4776811325877166fc5fc35f87369b224571facdc",
+      "bytes": 5783
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/server.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/server.py",
+      "sha256": "77f7bb7fcc8a372a25384c797224e87c223f66d1f585bf00e53372a31bc23e36",
+      "bytes": 18204
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/session_lifecycle.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/session_lifecycle.py",
+      "sha256": "458ef6898abad4623ed96ad0a246929828df3c1a33b2d0be257c460945fc4b3e",
+      "bytes": 13889
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/stable_gateway.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/stable_gateway.py",
+      "sha256": "a11d3f7d26525d0683c8a1b916932647c9a5bfdf54ff3ad876272512fcec32d7",
+      "bytes": 18612
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/windows_editor_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/windows_editor_pipe.py",
+      "sha256": "e0150201c1d429336afaafc8d2d34285f6a56ff4f8fbaaebeedaa8216babba36",
+      "bytes": 20103
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/windows_guardian_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/windows_guardian_pipe.py",
+      "sha256": "c0c7a7a6a03e43d59fd29965a3b227ff337b212a577702cc5db2c76cca25e8b3",
+      "bytes": 18826
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/windows_live_ram_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/windows_live_ram_pipe.py",
+      "sha256": "6bc066d3860bd3cda9b657459979f08e83a985c8e488c7b616d819e767564c1c",
+      "bytes": 9405
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/windows_ram_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/windows_ram_pipe.py",
+      "sha256": "54dd9a45064f34930a2dc6441c3c78cdaaeefbdf02138fcb2459830f1c57ec1e",
+      "bytes": 12971
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/windows_ready_ram_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/windows_ready_ram_pipe.py",
+      "sha256": "1821d8603d72bab9dd836ff7ae4ee43ef78ea5dc19fd87eef7e8faf594325119",
+      "bytes": 3959
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/windows_resident_live_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/windows_resident_live_pipe.py",
+      "sha256": "1ee81e3433d09c39eabfcc4b9852accd1fe9b9525247f6fcf938e8c441c48f13",
+      "bytes": 13674
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/windows_resident_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/windows_resident_pipe.py",
+      "sha256": "fb10fac3ad1d976e1b17e018dc139da0ef4322197ba2af52d230a46d905cbaac",
+      "bytes": 6842
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/workday_channel.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/workday_channel.py",
+      "sha256": "3b601e1164fee759044cb3a77c43c9fb6f439ead0ce426eb9865df362f0bf6d8",
+      "bytes": 9373
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/workday_pipe.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/workday_pipe.py",
+      "sha256": "0d86fdc34b932c7a87b6286597308a44097447b3122a48be29966b7c3a2fe42f",
+      "bytes": 7146
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/workday_provider.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/workday_provider.py",
+      "sha256": "b9f43c59707aeecbd425c8be38aeb3dd6c14d9f94e14378743289dc2fa8eb71b",
+      "bytes": 18766
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/workday_receipt_observer.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/workday_receipt_observer.py",
+      "sha256": "fed1a725843aee2beee628229de5e383e6cd1d3f15b5074f585f3e614b4cdd2f",
+      "bytes": 14205
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_mcp/workday_wire.py",
+      "origin_path": "tools/1c/designer-bridge/native_mcp/workday_wire.py",
+      "sha256": "06945271bfa4f22a474e400587ba8d558c4e6a8be2821ad9c4592bdd14790f46",
+      "bytes": 20012
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/native_source_codec.py",
+      "origin_path": "tools/1c/designer-bridge/native_source_codec.py",
+      "sha256": "8f2fffa122c02c203438e7d71685b470bf26f429159615222938378c3442a7a7",
+      "bytes": 5119
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/NativeCommandClient.cs",
+      "origin_path": "tools/1c/designer-bridge/NativeCommandClient.cs",
+      "sha256": "f7db4d2a091ee596a5293b67722c511f3b82d84150356f355a122750f406f567",
+      "bytes": 19051
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/capture_fresh_contract_v81.py",
+      "origin_path": "tools/1c/designer-bridge/research/capture_fresh_contract_v81.py",
+      "sha256": "5d9f52a5bae82c466e9d49b6bafcc5c86f60a08af3271ac78b2acbdb701026e0",
+      "bytes": 10473
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/capture_fresh_guard_v81.py",
+      "origin_path": "tools/1c/designer-bridge/research/capture_fresh_guard_v81.py",
+      "sha256": "12a9c79f34b22a59e3f88a931dd2b69d7f8a61577617f5e003db5e174b58e292",
+      "bytes": 14046
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/capture_handler_contract_v92.py",
+      "origin_path": "tools/1c/designer-bridge/research/capture_handler_contract_v92.py",
+      "sha256": "b80527701e09f7cd586363a5d5e00f1d8b1794490f12f28167e81fa687667167",
+      "bytes": 6482
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/capture_listeners_guard_v51.py",
+      "origin_path": "tools/1c/designer-bridge/research/capture_listeners_guard_v51.py",
+      "sha256": "6abeac7add63cc6c6768114806f09bdf4b56d5108992a224812443bc1b719175",
+      "bytes": 3744
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/capture_ownership_guard.py",
+      "origin_path": "tools/1c/designer-bridge/research/capture_ownership_guard.py",
+      "sha256": "7b370429959a4cbb4af73330da378ab362d0934c4068a6fd4df8b4796bf058aa",
+      "bytes": 6280
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/capture_state_guard_v52.py",
+      "origin_path": "tools/1c/designer-bridge/research/capture_state_guard_v52.py",
+      "sha256": "2ebdd1d2f5260535c8e6502698acbdd9ec5476f1c7fea2ad1118a792ae95d3e9",
+      "bytes": 2592
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/compact_owner_contract_v108.py",
+      "origin_path": "tools/1c/designer-bridge/research/compact_owner_contract_v108.py",
+      "sha256": "2538073ae77e5b710b27d078ffca0c258c926a38bff32e08d38e458af01a1057",
+      "bytes": 23790
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/compact_owner_guard_v108.py",
+      "origin_path": "tools/1c/designer-bridge/research/compact_owner_guard_v108.py",
+      "sha256": "1a58961f4d61206bd167640ae350223257d48de6b66e003796ff65caf138470e",
+      "bytes": 11955
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_cpp_exception_epoch.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_cpp_exception_epoch.py",
+      "sha256": "310a2a9ef7bd51c21d6ddc88240cca396c3be147c5a9141f853bd8f3e1df4881",
+      "bytes": 12036
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_cpp_exception_stack_epoch.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_cpp_exception_stack_epoch.py",
+      "sha256": "ab6413c1aa26bce55e61cd614302e6ea631cdab4def00eee9bbfd1dca5d2ae52",
+      "bytes": 16090
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_cpp_exception_stack_trace.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_cpp_exception_stack_trace.py",
+      "sha256": "c4e792ca4ae464c4a4b12f72cba8ba98522febb66bd6101732322f836aa913be",
+      "bytes": 22670
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_cpp_exception_type_epoch.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_cpp_exception_type_epoch.py",
+      "sha256": "e39d7fe335be118d3491317187654b884101fc1cfc7e0b743ab4dc76cec893c4",
+      "bytes": 15483
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_headless_execute_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_headless_execute_primary.py",
+      "sha256": "15809bff7ced16a5e607b77869ddfadc370cbb5fc6b8da9f910890e016d51fd3",
+      "bytes": 7662
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_headless_factory_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_headless_factory_primary.py",
+      "sha256": "2875d298d30f7c8400dbb2856c56d9346697695bc0ac94b278835e1ee7462446",
+      "bytes": 10765
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_native_source_roles_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_native_source_roles_primary.py",
+      "sha256": "7396acb1db47e520cdfaa73606174706760b2dad0ce5ccbab7d3fb06acbc69e7",
+      "bytes": 10043
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_provider_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_provider_read.py",
+      "sha256": "4845ddd127f1fb4508085a188b799a19b20aa1f7495f66a5c63af59ae329f80e",
+      "bytes": 9524
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_result_creation_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_result_creation_primary.py",
+      "sha256": "99c876c64133bf4a356c7904f6474e64dcd6bfafbabf7c888221b10021d01f87",
+      "bytes": 8256
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/comparison_update_other_managers_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/comparison_update_other_managers_read.py",
+      "sha256": "24bf58033ddaf4b50e5c858cf8b7c0be0704abfd1c7d5df04597c38d6e7c2291",
+      "bytes": 7405
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/completed_gold_own_module_v82.py",
+      "origin_path": "tools/1c/designer-bridge/research/completed_gold_own_module_v82.py",
+      "sha256": "5f69d072c0b554b2777bac98b486c2b8191cc56c31da8ab5a1990688832cc1bd",
+      "bytes": 12278
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/completed_gold_owned_document_structure_v139.py",
+      "origin_path": "tools/1c/designer-bridge/research/completed_gold_owned_document_structure_v139.py",
+      "sha256": "8be4222f9a482dca869e1c69a0e088dea50234559d085b3652135454d61368cc",
+      "bytes": 12935
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/completed_original_wait_v103.py",
+      "origin_path": "tools/1c/designer-bridge/research/completed_original_wait_v103.py",
+      "sha256": "88643184d4dfe9918aa6778c23da8ce7b256e16e854c527729e1a2e9cd069c9b",
+      "bytes": 1025
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/configuration_comparison_service_primary_v177.py",
+      "origin_path": "tools/1c/designer-bridge/research/configuration_comparison_service_primary_v177.py",
+      "sha256": "0bcb3483daec22dd497a6d314f14f724be8d57d99f179b53fe7703f3d2dd7192",
+      "bytes": 15965
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/core_as_sdk_probe.py",
+      "origin_path": "tools/1c/designer-bridge/research/core_as_sdk_probe.py",
+      "sha256": "ed0d12560f5c7d56982883b652f2a9075ae8afc82dce808c77836f3dab82e0bd",
+      "bytes": 2704
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/current_comparison_factory_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/current_comparison_factory_primary.py",
+      "sha256": "83f52e681af5b2f03bc7b4adffd2015d13b464874a6dd747468364f337f455e3",
+      "bytes": 10679
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/current_comparison_result_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/current_comparison_result_primary.py",
+      "sha256": "27f9978d2145897ce3210ca364bfbcfe1afb2093f73a58c418a5fc73a53e972c",
+      "bytes": 14353
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/current_main_closure_v265.py",
+      "origin_path": "tools/1c/designer-bridge/research/current_main_closure_v265.py",
+      "sha256": "b588f19f33f68c3081afc092a22d776eb079bffaaa77cd016f124ba8f6310ef2",
+      "bytes": 9926
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/database_configuration_read_route_v154.py",
+      "origin_path": "tools/1c/designer-bridge/research/database_configuration_read_route_v154.py",
+      "sha256": "e258d952d9b25b3954c8c2e1ef42982cb6ab2a2e94ec033496ef4e8417a70aa8",
+      "bytes": 13912
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/database_startup_metadata_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/database_startup_metadata_operation.py",
+      "sha256": "8d10da05e34553e77e11e090e473823d820417711be46f02acdfb53b317acd5f",
+      "bytes": 28063
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/designer_events_initialize.py",
+      "origin_path": "tools/1c/designer-bridge/research/designer_events_initialize.py",
+      "sha256": "1fcf9ddba9419539ed7b5150c87a81af0756cb858292d7269056314471350518",
+      "bytes": 19903
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/designer_frame_binding_vm_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/designer_frame_binding_vm_read.py",
+      "sha256": "d1186d91c446b7347a3b4c7923c42b81a63a2221b4b6294f6af0ac886963d853",
+      "bytes": 4927
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/designer_initializer_properties_vm_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/designer_initializer_properties_vm_read.py",
+      "sha256": "0018aeaa97cbf8d69d4243819bae0a1299ce6749bf9e5d325c689db702143755",
+      "bytes": 4746
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/designer_initializer_vm_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/designer_initializer_vm_read.py",
+      "sha256": "7f122655d000aa8fdc5864200fd1024561e09804078a57ca6f0ac899a90e57c0",
+      "bytes": 4361
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/designer_partial_runtime_guard.py",
+      "origin_path": "tools/1c/designer-bridge/research/designer_partial_runtime_guard.py",
+      "sha256": "12a06401650fb9d76c5cd4e3db28ce68ac78513b80803842669f5613008de649",
+      "bytes": 7988
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/detached_text_undo_guard_v63.py",
+      "origin_path": "tools/1c/designer-bridge/research/detached_text_undo_guard_v63.py",
+      "sha256": "1f9189dd32c40db86079d90ce91144aed3a09b015ec997f2d62c05ad4dd3610b",
+      "bytes": 1620
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/document_module_guard_v48.py",
+      "origin_path": "tools/1c/designer-bridge/research/document_module_guard_v48.py",
+      "sha256": "b33e5e5feef47901884c49eb5a9d649a0fd2e166cd532fe2d5a5658faae60ffa",
+      "bytes": 3735
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/editor_modules_pending_save.py",
+      "origin_path": "tools/1c/designer-bridge/research/editor_modules_pending_save.py",
+      "sha256": "971f50933e69527b1a55ad0dc7d2359d49740e2cdd69b8fe1b9050499f0bd246",
+      "bytes": 20768
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/editor_modules_pending_save_recipe.py",
+      "origin_path": "tools/1c/designer-bridge/research/editor_modules_pending_save_recipe.py",
+      "sha256": "cc64a68cc0bb37acd02b70789d0f4aa4004a81e75ea15af126bed1589e423ce2",
+      "bytes": 8373
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/factory_copy_guard_v49.py",
+      "origin_path": "tools/1c/designer-bridge/research/factory_copy_guard_v49.py",
+      "sha256": "f8f8bff649597e48521209d7a96a4883c8c3d87f584221f51acc3ea2407d06c0",
+      "bytes": 4084
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/free_notification_guard_v55.py",
+      "origin_path": "tools/1c/designer-bridge/research/free_notification_guard_v55.py",
+      "sha256": "018ba7bc5fc541d90e37e2a516adf251db69fbcc2154044fd9b0276bfa743660",
+      "bytes": 2065
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/fresh_stock_comparison_epoch.py",
+      "origin_path": "tools/1c/designer-bridge/research/fresh_stock_comparison_epoch.py",
+      "sha256": "9b2da6b8d533a0d3a126ae39aba05d828640e9b2ea13ab96f55311142a586601",
+      "bytes": 25149
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_own_object_module_contract_v78.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_own_object_module_contract_v78.py",
+      "sha256": "f1e00bbe5e6a9fa34b20c767ec94e060b8ebcabc24e24b2e41c85f0890db2901",
+      "bytes": 11655
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_own_object_module_contract_v82.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_own_object_module_contract_v82.py",
+      "sha256": "9fca12b69e2785ab52ff5e6ad55d910e912cfb07d40eca1a98ed705c47528dd4",
+      "bytes": 11112
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_own_object_module_guard_v78.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_own_object_module_guard_v78.py",
+      "sha256": "2e0792c2b47240f1f441b1919783b8fb2341d29cb4f6b520234133407f7a8120",
+      "bytes": 12779
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_own_object_module_guard_v82.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_own_object_module_guard_v82.py",
+      "sha256": "38c3ecc1f92b4bf86ecd2968e9cad36eb17d45a92bd1cf8bde847c4f5baa92ef",
+      "bytes": 29053
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_constant_contract_v99.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_constant_contract_v99.py",
+      "sha256": "6e8405ed1194188d2f95d2add46f614c4e31ceabe14d86236cb7c6e1760c80b1",
+      "bytes": 7628
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_constant_guard_v99.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_constant_guard_v99.py",
+      "sha256": "1b6e35f02fb5830e0b3a1482dfcbf4b7fdcf4b4084895933edecbc462fa7edc5",
+      "bytes": 13816
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_constant_session_contract_v102.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_constant_session_contract_v102.py",
+      "sha256": "622ab4812e273d5b99b8ea19e374de4f391a09dcb4fa6e89d73eaa3ed04e9ef4",
+      "bytes": 11219
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_document_structure_contract_v139.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_document_structure_contract_v139.py",
+      "sha256": "c830b4643382b6eb282a315d650f466d57e3d2f58c8029117990a4d325cfc133",
+      "bytes": 18799
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_document_structure_controller_v139.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_document_structure_controller_v139.py",
+      "sha256": "ed39f474939083a7a66cd350319bb1264fe462ed7c7718b8545178d9d8350f30",
+      "bytes": 8571
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_document_structure_guard_v139.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_document_structure_guard_v139.py",
+      "sha256": "7d271ec9ea40b390b27320b870bf017f6eddee0715d9869ed78dde20991e735f",
+      "bytes": 15652
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_empty_objects_contract_v130.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_empty_objects_contract_v130.py",
+      "sha256": "0a2a6eec8be2831dd5ff01808e4676982b19f2092774e0027ae3c7876a6eec48",
+      "bytes": 12490
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_empty_objects_controller_v130.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_empty_objects_controller_v130.py",
+      "sha256": "672b5191a279f5a88be3f7378aef219b72570752af237dd479bb482bd19dba8c",
+      "bytes": 8516
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_empty_objects_guard_v130.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_empty_objects_guard_v130.py",
+      "sha256": "096e91c43cd48c7e336a56b08f04cb37c48dcb8732bbd6612121d3310ffe7060",
+      "bytes": 13275
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_full_object_module_contract_v150.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_full_object_module_contract_v150.py",
+      "sha256": "0e880e94cd60b4cdb020cf33b186eba75956c76156e1a174016f7680be2ed96b",
+      "bytes": 30024
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_full_object_module_controller_v150.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_full_object_module_controller_v150.py",
+      "sha256": "bcf48a892f7beb6762ce86ce608ccf0d92402349d315e04248d757516996404a",
+      "bytes": 10772
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_full_object_module_guard_v150.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_full_object_module_guard_v150.py",
+      "sha256": "31d05a4597f238aea7cb9a8d023e24a5fdea9c5a2cd609975fb0ddcadc2d9ae1",
+      "bytes": 8009
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_managed_form_contract_v107.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_managed_form_contract_v107.py",
+      "sha256": "e1c08b9d0fc75f757774fd1bbdbde8e08e7c3bd2b0600798e62579884fcf3040",
+      "bytes": 26848
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_managed_form_controller_v116.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_managed_form_controller_v116.py",
+      "sha256": "24ec365c9bfd9c094ba1794fca7eb8fa8093f7adcf77de792b21ba98858059e2",
+      "bytes": 4703
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_managed_form_guard_v107.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_managed_form_guard_v107.py",
+      "sha256": "d25d311b2ddfaaa5b7512ff8068f50f7c52fb0cd952602792fae7ae1673f2a7e",
+      "bytes": 26801
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/gold_owned_managed_form_session_contract_v115.py",
+      "origin_path": "tools/1c/designer-bridge/research/gold_owned_managed_form_session_contract_v115.py",
+      "sha256": "ccd3d4083c8e16689bb422104c67825204b5528461b6aa52d55aa3346dd988b7",
+      "bytes": 10749
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/guardian_native_admission.py",
+      "origin_path": "tools/1c/designer-bridge/research/guardian_native_admission.py",
+      "sha256": "5f8aad5ea45df9d3e56f58054e7a48c4c4fc41eaa4bb3c24cf8e30b3f1f6bc6b",
+      "bytes": 5843
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/headless_comparison_carrier.py",
+      "origin_path": "tools/1c/designer-bridge/research/headless_comparison_carrier.py",
+      "sha256": "2f10a11f592901b113bf45e9abcf1158b96019268faf5b53d55a5bfc4ea5ae68",
+      "bytes": 3027
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_editor_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_editor_operation.py",
+      "sha256": "ca2332e8da86bc45b5b1287924fdfe7fe1b2db66f50bfc88201e569e8b4c7905",
+      "bytes": 99233
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_module_ram_closure.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_module_ram_closure.py",
+      "sha256": "7da33bad38a70785c7bebbe081dccc28189dc38dc04a1416d2ee55964f10fbf4",
+      "bytes": 13855
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_module_ram_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_module_ram_operation.py",
+      "sha256": "953263e96beb27d42b066e04389a8a891a3f487e960c18507d0f6d3fa5b43c4b",
+      "bytes": 29806
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_module_readonly_closure.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_module_readonly_closure.py",
+      "sha256": "dae69b5d1ea69ded64ccb495c4ab5336b5045f32a348c0a02095ed7f9d17b7f4",
+      "bytes": 12616
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_module_readonly_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_module_readonly_operation.py",
+      "sha256": "177f76ae53fecbff383f3fcd90a9e972958c63fa854589d5146f18e0db39c2d4",
+      "bytes": 41202
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_resident_bound_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_resident_bound_operation.py",
+      "sha256": "d316f3daa3add60880a85fc7a9083cbcfdced2c41ebce561072c33a6fe1b2085",
+      "bytes": 3159
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_resident_current_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_resident_current_operation.py",
+      "sha256": "0bc555b9e705cfc7180b9dec966b43de21c50db38cdabc61348153e4a79cb0bc",
+      "bytes": 23409
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_resident_diagnostic_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_resident_diagnostic_operation.py",
+      "sha256": "d1ce841a49469c3595304a7bd2f245ae18a5c8e9c9f759aebde7c1c9fbbd688c",
+      "bytes": 39904
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_sdk_continuation_v233.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_sdk_continuation_v233.py",
+      "sha256": "04569dda63f46c12956518cec3e474d714fc25c14fc683c17d79f13606a4d681",
+      "bytes": 72198
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/live_symbol_index_v204.py",
+      "origin_path": "tools/1c/designer-bridge/research/live_symbol_index_v204.py",
+      "sha256": "e30e38eecc48544f6375ff4ffffa0f3620b9cdf19f65fd9acee31cac431693bf",
+      "bytes": 11794
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_body_factory_guard_v78.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_body_factory_guard_v78.py",
+      "sha256": "b461fc1c0ea98c16ab7cbf691b11f23486d5129c85fcf8965e6582c31d780520",
+      "bytes": 13672
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_body_module_guard_v79.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_body_module_guard_v79.py",
+      "sha256": "9c95cd9d46caeb07ffc44e9373e93ca2646741dd5ed26bcf79daf124ce24ca16",
+      "bytes": 8402
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_form_type_contract_v72.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_form_type_contract_v72.py",
+      "sha256": "a2e3ddceb80fd6448ae52a11e6b2e30a499ecb148f53772028a4dca2aa14d68d",
+      "bytes": 23649
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_form_type_contract_v74.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_form_type_contract_v74.py",
+      "sha256": "ea32a4d4c47899c516dea558e67ad8e9adb00e94969ca488a96b46d3f88267b4",
+      "bytes": 12113
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_form_type_guard_v72.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_form_type_guard_v72.py",
+      "sha256": "cc5ee9146f558300c7daecfabfef2e0fc0ea744daee1d4436ca2b5308481b192",
+      "bytes": 8370
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_form_type_guard_v74.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_form_type_guard_v74.py",
+      "sha256": "1e1a1847cea5322a7e954f18f109bcba1d590a39ae31426d574c346c0701da89",
+      "bytes": 12002
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_input_outer_kind_abi_v144.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_input_outer_kind_abi_v144.py",
+      "sha256": "e6ac2923c26bb8c19e8f25d7bbda4053a4c5d68a5c4c5e09a3096406f629cb97",
+      "bytes": 5530
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_input_record_contract_v145.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_input_record_contract_v145.py",
+      "sha256": "b5d0eca4d06b4d6a9e6ddec9c35e222b7d7a38093850b5bfd2ed2db439249735",
+      "bytes": 10967
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_input_record_controller_v145.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_input_record_controller_v145.py",
+      "sha256": "32def39689d03c7590a9fda1651aa894626b86afce16e2aa31caf1e8e8eea9fc",
+      "bytes": 8171
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_input_record_guard_v145.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_input_record_guard_v145.py",
+      "sha256": "7b8ffd561a7d634297aecad9d54b54d2009dd635c65480ff2197ab071ddf5a5c",
+      "bytes": 9024
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_input_record_primary_v141.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_input_record_primary_v141.py",
+      "sha256": "3211798062afb584ed80aa3425daa708bf38c3f63dda8faf51f71b014917b45d",
+      "bytes": 14036
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_layout_contract_v80.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_layout_contract_v80.py",
+      "sha256": "11ebd01737263a645b67a0b77f6016a93ac46e466e7702b4f63e4001919d4973",
+      "bytes": 8652
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_layout_guard_v80.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_layout_guard_v80.py",
+      "sha256": "f382942195656e1eb25dd9772dd888bd909ec47049a484f40f054c6a17a0de09",
+      "bytes": 17810
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/managed_widget_factory_gap_v139.py",
+      "origin_path": "tools/1c/designer-bridge/research/managed_widget_factory_gap_v139.py",
+      "sha256": "df03abfc33c5206eb43210667e5ce869da0ac043d99ce06c47d57991ace8e0f5",
+      "bytes": 11332
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Measure-GoldChannelV43.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Measure-GoldChannelV43.ps1",
+      "sha256": "793627d88bc10a99d7b893a773624f76ffeda01ef73a1604ac2ecf5a85835e45",
+      "bytes": 2918
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Measure-PipeDisconnectV45.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Measure-PipeDisconnectV45.ps1",
+      "sha256": "a7f2fc70508d911d937ca23e0526d14880db4b051e9c07ff0a395fdf7b29d25b",
+      "bytes": 3743
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/metadata_descriptor_codec_v47.py",
+      "origin_path": "tools/1c/designer-bridge/research/metadata_descriptor_codec_v47.py",
+      "sha256": "7681085d6ab20177c09af5b06a5ad3c583077df5ae7d44823d0014579817ee03",
+      "bytes": 5958
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/metadata_receiver_inventory_v126.py",
+      "origin_path": "tools/1c/designer-bridge/research/metadata_receiver_inventory_v126.py",
+      "sha256": "3d27fb68f4f62cb3961f11b623c4472051cd807881f65e13b12d18a57d3c56a7",
+      "bytes": 10384
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/metadata_receivers_contract_v126.py",
+      "origin_path": "tools/1c/designer-bridge/research/metadata_receivers_contract_v126.py",
+      "sha256": "63a849cd116e043a94d8977755bc73974e83f53169eaa22ba754e505d1aaf8bd",
+      "bytes": 8546
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/metadata_receivers_guard_v126.py",
+      "origin_path": "tools/1c/designer-bridge/research/metadata_receivers_guard_v126.py",
+      "sha256": "d98d94a885299ebf33db23d8b57ccc545443b5dff9fafd37212f7694251cec92",
+      "bytes": 12442
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/modal_read_child_failure_audit.py",
+      "origin_path": "tools/1c/designer-bridge/research/modal_read_child_failure_audit.py",
+      "sha256": "a9df6cb09e2a37240eecb2bc85d924f4d874dcfba78d87d38916d0ec706f7f48",
+      "bytes": 10907
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/native_comparison_tree_projection.h",
+      "origin_path": "tools/1c/designer-bridge/research/native_comparison_tree_projection.h",
+      "sha256": "983c56d1876630fa4e3cc60733bbe0fc437423ada60b4042bbfc4056dfc42640",
+      "bytes": 9943
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/native_headless_comparison_core.h",
+      "origin_path": "tools/1c/designer-bridge/research/native_headless_comparison_core.h",
+      "sha256": "b39a89fc04a4c3dd456dee9be531bff789a33550b7dff7f13dcc8e0622e2a45a",
+      "bytes": 9065
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/native_ram_carrier.py",
+      "origin_path": "tools/1c/designer-bridge/research/native_ram_carrier.py",
+      "sha256": "c75ca413a26e5cccb6f4ff68f9a3d4e88ae5b9b960560e408afa0b606cdf1301",
+      "bytes": 35308
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/native_synthetic_event_bridge.h",
+      "origin_path": "tools/1c/designer-bridge/research/native_synthetic_event_bridge.h",
+      "sha256": "3ef49713aeaee6b3e78ff6101c2c35f053c47b9588c3123490706ed61abd8102",
+      "bytes": 9338
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/native_update_event_sink.h",
+      "origin_path": "tools/1c/designer-bridge/research/native_update_event_sink.h",
+      "sha256": "56e0cef5da00f1c3b5a8e660cb00709d121c8e1a6128ae99c2e66a16225bb53d",
+      "bytes": 12360
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeCurrentComparisonProviderObserve.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeCurrentComparisonProviderObserve.as",
+      "sha256": "20747c20e67b1de3f7f38bac2579c0eee1d058a861c7ef5e5fc716fad46c240c",
+      "bytes": 8823
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeDatabaseSavedResourcesFastGate.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeDatabaseSavedResourcesFastGate.as",
+      "sha256": "4ba489acccc9de4a0c60780e14100e79e39fdc078924cd0ff32483d5ff26ed1c",
+      "bytes": 31059
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeDatabaseStartupMetadata.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeDatabaseStartupMetadata.as",
+      "sha256": "b7984b00758495f1ba0ef5c0cc9e42d64eb5f67b885793e94ad468376fdcad3b",
+      "bytes": 20931
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeDesignerEventsInitialize.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeDesignerEventsInitialize.as",
+      "sha256": "b23ec2c524c0cea38f90eeaae3ed6fa19e297199ef8250f7f005fb0369ab2cce",
+      "bytes": 12435
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeDesignerFrameBindingRepair.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeDesignerFrameBindingRepair.as",
+      "sha256": "8739d48fd30b7e40d7a0a893119d548669bdf336220550d0191e3c8274380f77",
+      "bytes": 7196
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeExpectedSavedTemplate.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeExpectedSavedTemplate.as",
+      "sha256": "84c6917fbe609dbbd16bea2d383220221d3a89c6f12a44af13f7af4dda27b459",
+      "bytes": 16965
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeFactoryAbiV49.c",
+      "origin_path": "tools/1c/designer-bridge/research/NativeFactoryAbiV49.c",
+      "sha256": "774874a61438578e320730a1b50311dbe87f76401b33bf271ee34ce51e1477ae",
+      "bytes": 2775
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeFreshStockComparison.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeFreshStockComparison.as",
+      "sha256": "8339537c488e4ba1aef5795a64e93eeca573ea7fe65bec6615f302b39e1579b4",
+      "bytes": 19668
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeGoldBootstrapV43.c",
+      "origin_path": "tools/1c/designer-bridge/research/NativeGoldBootstrapV43.c",
+      "sha256": "ccd70ffb9d9ae51028d7297c618f987db29f8f09e2dcba4273e5349999142863",
+      "bytes": 6784
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeLiveCommonModuleBound.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeLiveCommonModuleBound.as",
+      "sha256": "855081cd4688d2432e67357ae239b939c340b931d5d55ffafaae97b5e752e29d",
+      "bytes": 16826
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeLiveCommonModuleRam.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeLiveCommonModuleRam.as",
+      "sha256": "ba8fa5ca3ed3b13502d0a08f43bffe460bdd1eb7d0c611c667b173ce9d05048d",
+      "bytes": 17894
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeLiveEditorCommand.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeLiveEditorCommand.as",
+      "sha256": "552c5f1f4f7851e01053f78b0619bd9dd9bfe363606034e36b346e1a47d64dcd",
+      "bytes": 31643
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeLiveModuleRam.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeLiveModuleRam.as",
+      "sha256": "4610f385654d36cdb6673b12ed2a9206338d6535405de5782f1e3598688cf9a9",
+      "bytes": 17241
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeLiveModuleReadOnly.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeLiveModuleReadOnly.as",
+      "sha256": "a68348932423dd1fc8850dd75353c873764f003ee61f06f5ade3c2f866dad117",
+      "bytes": 15161
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeOwnedEditorBaseline.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeOwnedEditorBaseline.as",
+      "sha256": "259992ba3fe65939771499a98969c9535c564c3c93ffdc0770650993e06759ee",
+      "bytes": 10303
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeOwnedHeadlessComparisonUtf8.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeOwnedHeadlessComparisonUtf8.as",
+      "sha256": "489d99eb6b0b1153f78eca2480fc0d429ea6b6c5d219ad38e7fd41d2b822d18d",
+      "bytes": 5882
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeOwnedLiveModuleRead.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeOwnedLiveModuleRead.as",
+      "sha256": "a7d238b4d06040da59681ba11df4016bc65893521547bf831f93a50010c2147b",
+      "bytes": 17980
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeOwnedViewEnumeration.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeOwnedViewEnumeration.as",
+      "sha256": "82e8b9ed30670a69b182f376d06b37b24d5c58df81a2a389277e378f201ba89c",
+      "bytes": 10292
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeRamPacketV240.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeRamPacketV240.as",
+      "sha256": "ac1ce2fbf13c7f735813b74d966f0ed691e877e12ddc68d053a5d5125a942922",
+      "bytes": 12851
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeRepeatableStockComparison.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeRepeatableStockComparison.as",
+      "sha256": "b0bf8263800314ff01aef7d38af9888f409711132a620dd194986a220c46a077",
+      "bytes": 24726
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeRunnerEditorsV247.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeRunnerEditorsV247.as",
+      "sha256": "aefd6e34b44fcdfa67eb4a7f245797f0f11d2eda24666a0e2cb12fc3d0731e2f",
+      "bytes": 5592
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeRunnerModuleApplyV244.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeRunnerModuleApplyV244.as",
+      "sha256": "5cca664d04c4cd612d8e5a24d018c953a8888dfa56d0f30c8ba83a37fc11aa3c",
+      "bytes": 17703
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeRunnerReferenceScratch.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeRunnerReferenceScratch.as",
+      "sha256": "2410c191fe7a17d907ced30e906c9254f0f2410ca7d80acda5a059c2daaef50f",
+      "bytes": 5179
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeRunnerSaveOwnStand.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeRunnerSaveOwnStand.as",
+      "sha256": "3776472cdbae4f0da7fbef69af07957d357624350677bd4cb69c79eb31ac1045",
+      "bytes": 11765
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeRunnerSheetApplyV242.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeRunnerSheetApplyV242.as",
+      "sha256": "3c96f437e59d042bedb6b3c616fdaf9f940dd9dd78774bcab4731ac677326631",
+      "bytes": 20597
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSafeCommonModuleRam.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSafeCommonModuleRam.as",
+      "sha256": "1f6d544d1963a19e4da54a67f246457a63ce080a30151857472802acaa2d92e3",
+      "bytes": 31987
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSafeSavedModuleRam.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSafeSavedModuleRam.as",
+      "sha256": "df1711a1f39c84c38f87e844eb6c218e80ef638d6f55a3bb45aee23db0f36319",
+      "bytes": 29832
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSavedResourceFingerprintV264.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSavedResourceFingerprintV264.as",
+      "sha256": "7c45c44839e5938288c0c39da31acebd079034d098a4ccd1b29df1017dfee24b",
+      "bytes": 32553
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSavedResourcesFastGate.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSavedResourcesFastGate.as",
+      "sha256": "022c9e566551052c09fe5638e10e6bfba86b8cf8f94c663749daadc99bfcf6a9",
+      "bytes": 30970
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSdkGoldDiagnosis.c",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSdkGoldDiagnosis.c",
+      "sha256": "e22ea0a88316fdeca21e70c3e6509619624cbe3203c05d8315a7e241830d6d0c",
+      "bytes": 7234
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSelectionAbiV46.c",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSelectionAbiV46.c",
+      "sha256": "b7c903b8ec90d798dfafe11e7c8623b4e929af8d1cf18f63afbfa8e68c6c22f4",
+      "bytes": 3355
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSheetChangeFixed.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSheetChangeFixed.as",
+      "sha256": "c277f10b630004a2f25a9a4a1b175794f6ff097b9fe23b8e2663105fd8507910",
+      "bytes": 8886
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSheetChangeReceiver.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSheetChangeReceiver.as",
+      "sha256": "5fdd69f591646f6bddcc0b9ea43870800740ae45c09430a8d5f9ab97502acc73",
+      "bytes": 10705
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSheetDirtyState.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSheetDirtyState.as",
+      "sha256": "f7e014a41f53ffd35a62859a68c65ae5c0fa9e82fb43ac9f2e7abeaa274fe8e3",
+      "bytes": 5531
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSheetDocumentChange.c",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSheetDocumentChange.c",
+      "sha256": "22e9dff4003e04588f7afd0bb6d2a0b416f74fdbb7680cefda19d02724b7d111",
+      "bytes": 12363
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSheetSaveCommandState.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSheetSaveCommandState.as",
+      "sha256": "45baac8242bde4202003c647d6abe1d03958851aea2982306c01d86b736194b9",
+      "bytes": 7850
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSyntheticEventsRoundtrip.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSyntheticEventsRoundtrip.as",
+      "sha256": "99b78191012c42b5e5fdcf5164c01b072e6187b2b382e5483edca1ccd3f85cd5",
+      "bytes": 13037
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeSyntheticEventsRoundtripNormal.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeSyntheticEventsRoundtripNormal.as",
+      "sha256": "dacdf2c31a2419ff55dd548f6927b72702463a6ee55c912448cc3b1dcd27eebd",
+      "bytes": 13499
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeTemplateBindingV236.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeTemplateBindingV236.as",
+      "sha256": "93ebbac2478f8a693c8e9e602fc3bc672db33ee953c5a50f3f6cffd24702b35f",
+      "bytes": 10671
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeTemplateEditorV234.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeTemplateEditorV234.as",
+      "sha256": "c55a46c7189a10baa48e0d8cf4489d83c948b4afed3b392a886c6313662a471a",
+      "bytes": 9249
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeTemplatePolicyCurrentQuery.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeTemplatePolicyCurrentQuery.as",
+      "sha256": "875bad29a19d3667f2c1bb5bac9e39cc8772ecfb47d4affd308aa96cedbcd97c",
+      "bytes": 29194
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeTemplatePolicyReceiverV250.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeTemplatePolicyReceiverV250.as",
+      "sha256": "705eb73c1027c2e1fcaa503e0e899d5673ad8328c1194d1104a7880a639d4f4d",
+      "bytes": 14464
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeTemplatePolicyV233.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeTemplatePolicyV233.as",
+      "sha256": "6027ae9669f53b52fb6a37e781ec181dbb1e3e50ccd229d8c6e128667676f5ed",
+      "bytes": 17014
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeTemplateSerializationDiff.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeTemplateSerializationDiff.as",
+      "sha256": "99e113e59eca1aa00e90a37a5594ea560795aa89c47fd79a90961076bb419b2b",
+      "bytes": 14531
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeTextUndoV62.c",
+      "origin_path": "tools/1c/designer-bridge/research/NativeTextUndoV62.c",
+      "sha256": "c37004bf11b98b2d5e8b2a3f1bcc0f7313ff648cf1a7311b930b323af55fee5e",
+      "bytes": 6878
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeUpdateOwnerRead.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeUpdateOwnerRead.as",
+      "sha256": "2ba66242f29b0ebeea8176fb225d4a601dd2c7d86ae38419947a97028c10fa61",
+      "bytes": 9153
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/NativeUpdatePreview.as",
+      "origin_path": "tools/1c/designer-bridge/research/NativeUpdatePreview.as",
+      "sha256": "c107d81f13bdbc006180a2993b7cd9e127778498ba3ed9645ada08eb3c995e3b",
+      "bytes": 14627
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_constant_contract_v77.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_constant_contract_v77.py",
+      "sha256": "7ef3d3b8b64566e02d1d398f8668a396b1690ebe67bfeb1c4e4e6ffce42d8fd0",
+      "bytes": 12273
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_constant_guard_v77.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_constant_guard_v77.py",
+      "sha256": "f5e3c3338ef0563755d6e37cdb997fd3dd032fb932334ecb2810c94cfe6cbefd",
+      "bytes": 19721
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_editor_baseline_closure.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_editor_baseline_closure.py",
+      "sha256": "ff034ab7456f5b41cf91d8148304d04cd59b764e122b63c447a806048dbe727f",
+      "bytes": 13816
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_empty_class_inventory_contract_v125.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_empty_class_inventory_contract_v125.py",
+      "sha256": "2a45b92949172b41b4c7d597d7cc3116263ae65561a33b08427b32495594840a",
+      "bytes": 6130
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_empty_class_inventory_guard_v125.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_empty_class_inventory_guard_v125.py",
+      "sha256": "665054f3d5f258c85c0fa12721de7ab3c8a4d2a2b15741e985799acb7426003b",
+      "bytes": 5816
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_headless_comparison_utf8.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_headless_comparison_utf8.py",
+      "sha256": "dfa90a9f8025650356f9f57c36c78f4e1e8e570e698a58e357f4c8bfb27a7121",
+      "bytes": 22498
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_live_premutation_refusal_audit.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_live_premutation_refusal_audit.py",
+      "sha256": "e84b277e50fcc95b4265d081192c1285c279548dd695d3fd750741a03eeb316e",
+      "bytes": 13539
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_managed_body_contract_v73.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_managed_body_contract_v73.py",
+      "sha256": "8a1aec10f79b99dd0cc78b50234ae10cc5a8f785d60060734e43562b0dbacaaf",
+      "bytes": 23014
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_managed_body_guard_v73.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_managed_body_guard_v73.py",
+      "sha256": "f4abd536488a695d6f1dad314401eb1faad620dfe9da3bd9676ba6ecb86285fd",
+      "bytes": 13370
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_managed_cf_guard_v73.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_managed_cf_guard_v73.py",
+      "sha256": "239b9e8a03afda73eecdb9bd400b2311545c05ce8bc603e23889de10c6534796",
+      "bytes": 8799
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_managed_form_guard_v75.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_managed_form_guard_v75.py",
+      "sha256": "8420815ebd1d9fb38e9a0ae1cb586e4e151859388d0e4e76563a881309b36821",
+      "bytes": 13095
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_metadata_children_abi_v137.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_metadata_children_abi_v137.py",
+      "sha256": "a0360352599e89f9026103dc29febe5d3686c18daa2aa0f1161937c4c6aca30a",
+      "bytes": 20265
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_module_payload_contract_v142.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_module_payload_contract_v142.py",
+      "sha256": "0418452c3db4e587cb882786588ea3bcef187bbb18f4cdcbd4c6de3e48dbc657",
+      "bytes": 3025
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_persistence_contract_v71.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_persistence_contract_v71.py",
+      "sha256": "5cb81365a6a558e3fc44203d546d636f1d1c0bea8060a4b1ff91cdf1055f8c49",
+      "bytes": 17491
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_persistence_guard_v71.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_persistence_guard_v71.py",
+      "sha256": "3ef0a22687eeed3f52e1cb3560f3228acf58be0dd09943f388f1a0a6d4ad4135",
+      "bytes": 7215
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_value_contract_v67.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_value_contract_v67.py",
+      "sha256": "e32a426b17689800a03bc61951dcb708629404da29dc08d82b834598f0a70736",
+      "bytes": 6841
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_value_lifetime_guard_v67.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_value_lifetime_guard_v67.py",
+      "sha256": "1294cd59fd284558acaf0b2162be87f32c1d70ab36ab99122dc7e0221b1f600c",
+      "bytes": 3096
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_value_persistence_contract_v68.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_value_persistence_contract_v68.py",
+      "sha256": "9dec5384e64fb83d056e59fee65edd3f08d629e323ed4e7c5957dac07daac3d2",
+      "bytes": 10353
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_value_persistence_guard_v68.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_value_persistence_guard_v68.py",
+      "sha256": "7e6615bcf938249d6d09d9014961d0b361922c3d7b72efe1e86651fc168a0eff",
+      "bytes": 3824
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/owned_view_enumeration.py",
+      "origin_path": "tools/1c/designer-bridge/research/owned_view_enumeration.py",
+      "sha256": "650964593a3f4227b102739d8799929984dfd8aae7fe7ca92ab6131501391f29",
+      "bytes": 25300
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/OwnedGoldGuardV43.cs",
+      "origin_path": "tools/1c/designer-bridge/research/OwnedGoldGuardV43.cs",
+      "sha256": "4188e4959d439b77a7ecbb528d74d50e9b2e2b8d912ef0eee7e1acb31358a407",
+      "bytes": 2320
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/OwnedGoldLoaderV43.cs",
+      "origin_path": "tools/1c/designer-bridge/research/OwnedGoldLoaderV43.cs",
+      "sha256": "06f6d8715e3527fc5b8712334ed544c882043041e6c37ac9c4e54b689b63715e",
+      "bytes": 13204
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/OwnedSdkDiagnosisHook.cs",
+      "origin_path": "tools/1c/designer-bridge/research/OwnedSdkDiagnosisHook.cs",
+      "sha256": "33fa5dc780b670dd28ff69b8bc29519c681a80eb44ade8ebb4f30d78155cb7f7",
+      "bytes": 7481
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/OwnedSdkReadonlyAttach.cs",
+      "origin_path": "tools/1c/designer-bridge/research/OwnedSdkReadonlyAttach.cs",
+      "sha256": "112007654805351263fee5c8f9c08d27d2a665eee8d9202f1d7bc0c45d1b62a4",
+      "bytes": 8689
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/persistent_mcp_admission.py",
+      "origin_path": "tools/1c/designer-bridge/research/persistent_mcp_admission.py",
+      "sha256": "4179e0c9e7526b4c8a48e7da1ba7f7fd9fef7fec22564e0208c8b65ff565aeea",
+      "bytes": 5633
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/persistent_ram_carrier.py",
+      "origin_path": "tools/1c/designer-bridge/research/persistent_ram_carrier.py",
+      "sha256": "5fede18cce44dd9a1f465907deccdcbeffd209c5d43f2dcc022cb54f82feaf04",
+      "bytes": 35764
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/post_update_comparison_carrier.py",
+      "origin_path": "tools/1c/designer-bridge/research/post_update_comparison_carrier.py",
+      "sha256": "3916a37347dcce7d63d26b4dac343b08ff44d394c93623c8227a248269dac047",
+      "bytes": 1125
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/post_update_comparison_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/post_update_comparison_operation.py",
+      "sha256": "b239fc61826dd46f6dd51ffd43046065954c18fc78a97710533c4750a540d5a6",
+      "bytes": 24000
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/post_update_readback_source.py",
+      "origin_path": "tools/1c/designer-bridge/research/post_update_readback_source.py",
+      "sha256": "a79ce6794976566982733b3d4e097d57d01f871ef0b4bf035a6bd0f1000e38fe",
+      "bytes": 1406
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/prepare_gold_startup_v43.py",
+      "origin_path": "tools/1c/designer-bridge/research/prepare_gold_startup_v43.py",
+      "sha256": "1f233cfa4f3256c5a9ace436ca362fc80a28dfc8fa07223fe699889e2ff24c50",
+      "bytes": 24087
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/prepare_runtime_v40.py",
+      "origin_path": "tools/1c/designer-bridge/research/prepare_runtime_v40.py",
+      "sha256": "33a9b7714c3fe6bfc61a50de37f0882becb153e24627c0c10a6565ddcd04e009",
+      "bytes": 6284
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/processing_form_contract_v69.py",
+      "origin_path": "tools/1c/designer-bridge/research/processing_form_contract_v69.py",
+      "sha256": "96dd2d2da727ad4affabe781c8ab10557dce22678e8e9217cfb0db310fcea062",
+      "bytes": 12355
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/processing_form_guard_v69.py",
+      "origin_path": "tools/1c/designer-bridge/research/processing_form_guard_v69.py",
+      "sha256": "f5788c16b5cc867b21e9a59aa03998dfbcab9ad49b29812c83e485689776747e",
+      "bytes": 4649
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/processing_object_module_editor_contract_v98.py",
+      "origin_path": "tools/1c/designer-bridge/research/processing_object_module_editor_contract_v98.py",
+      "sha256": "b3af3a0d35007d452aafe7254abf7b4e568d5b51f27daef6206e63b68b5a538c",
+      "bytes": 9844
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/processing_object_module_helper_contract_v94.py",
+      "origin_path": "tools/1c/designer-bridge/research/processing_object_module_helper_contract_v94.py",
+      "sha256": "be2dcce9fa7fadd217b02bf6278d64201ebee77ce8f748a64b93af12c749fc0b",
+      "bytes": 10743
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/ram_payload_v237.py",
+      "origin_path": "tools/1c/designer-bridge/research/ram_payload_v237.py",
+      "sha256": "453df9a9c41ee4bb5068b15e058a2449c6f88ee9405b7300c24cf58b8421ee79",
+      "bytes": 9395
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/ram_transport_v238.py",
+      "origin_path": "tools/1c/designer-bridge/research/ram_transport_v238.py",
+      "sha256": "47c1609b8993ca3e32491aaecbf0c45658fd7fa9789987a92dbed8306030e4bc",
+      "bytes": 16089
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Read-OwnStartupSnapshotV43.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Read-OwnStartupSnapshotV43.ps1",
+      "sha256": "360c6c3950f031fc6b048199aa6b20127f2a7a241c470a2a7a0c70e30484e8fd",
+      "bytes": 1385
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedCaptureFreshV81.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedCaptureFreshV81.ps1",
+      "sha256": "07162d7664134baa8ebb8a3cfbfd654c5450e1dd2eb943a0cb6afea7df9c5ae0",
+      "bytes": 2836
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedCaptureRuntimeV56.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedCaptureRuntimeV56.ps1",
+      "sha256": "fbb29f1ea332bc0e762677a22037c50cfa16674d9ef4f3d4ee717896af888d90",
+      "bytes": 2342
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedConstantV99.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedConstantV99.ps1",
+      "sha256": "f9daec321834d04235f5b3d46cd23ac67a2170229b0df1a065d1a08889aa8948",
+      "bytes": 3115
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedDocumentStructureV139.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedDocumentStructureV139.ps1",
+      "sha256": "36fd8061fe3ec257f337292554a1ed6db8799947e6a55066f2e6cf25454028e8",
+      "bytes": 6370
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedEmptyObjectsV130.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedEmptyObjectsV130.ps1",
+      "sha256": "e2005b54410d30235c9450ffe90b8416113edfc19cd66c4860efc624c80f0e15",
+      "bytes": 3280
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedFullObjectModuleV150.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedFullObjectModuleV150.ps1",
+      "sha256": "aa38546555d0e78be80dd4f921909a00fcc3f0464d75944c931987e117250d9c",
+      "bytes": 6522
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedManagedFormV107.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedGoldOwnedManagedFormV107.ps1",
+      "sha256": "dffe53f7d06179668690d00e42f85543e53217665fe8ff1eb948a5dec2a7ef89",
+      "bytes": 3194
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedGoldOwnModuleV78.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedGoldOwnModuleV78.ps1",
+      "sha256": "41a4bb1becc05cbb32ceeca30dfabc56fe5fab393a869a26fc898f670db9d542",
+      "bytes": 2280
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedGoldOwnModuleV82.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedGoldOwnModuleV82.ps1",
+      "sha256": "7a79765069af24959a6a9e70a81a2ec19f9c8b85ac5702494e2658e89f62ca81",
+      "bytes": 3236
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-CompletedReadOnlyRuntimeV47.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-CompletedReadOnlyRuntimeV47.ps1",
+      "sha256": "a182158cf83b5889e08d58b39d9491852a15c8f4b868afeb575208dfdb327182",
+      "bytes": 2308
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Remove-TextUndoRuntimeV62.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Remove-TextUndoRuntimeV62.ps1",
+      "sha256": "24824c7071368890b99e263c3b8f68f0c4177649ea37aae574da234ecd6d41e7",
+      "bytes": 3081
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/renewable_guardian_admission.py",
+      "origin_path": "tools/1c/designer-bridge/research/renewable_guardian_admission.py",
+      "sha256": "809da32f339297266f545326b111ce44980a408f6ba07f9a94c3f35d272adf44",
+      "bytes": 8358
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/repeatable_stock_comparison_type_epoch.py",
+      "origin_path": "tools/1c/designer-bridge/research/repeatable_stock_comparison_type_epoch.py",
+      "sha256": "7ec7d40e76f380dbf71a05ae9a7231b726f9d8fe225cf0afe1b4369b93693c57",
+      "bytes": 33665
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/repository_pe_probe.py",
+      "origin_path": "tools/1c/designer-bridge/research/repository_pe_probe.py",
+      "sha256": "cd405ae6627b0de69b0c26e128b00d552c5ddca30273b5bf57518c2fa57c4762",
+      "bytes": 7547
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/resident_managed_carrier.py",
+      "origin_path": "tools/1c/designer-bridge/research/resident_managed_carrier.py",
+      "sha256": "df071e91f3e0fe2bea80b5a850e2407bd3bed4e29322bf9ba5027f122dbe44e8",
+      "bytes": 5409
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/resident_saved_module_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/resident_saved_module_operation.py",
+      "sha256": "5a6384b247b2070cf0d8eddbe9632b37d301f426d512943ab7a92352aa094bff",
+      "bytes": 23548
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/resident_session_admission.py",
+      "origin_path": "tools/1c/designer-bridge/research/resident_session_admission.py",
+      "sha256": "3bfc223fb21b6fc1280490f3d07a9acf57e6db9647fce72e813b4e54562e4d4c",
+      "bytes": 6914
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/rlm_ram_parser_adapter_v204.py",
+      "origin_path": "tools/1c/designer-bridge/research/rlm_ram_parser_adapter_v204.py",
+      "sha256": "9140c7411b6ed36b2e8619939800b86ee149b214d39d853a1bb1f59e08683eaf",
+      "bytes": 9768
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/run_capture_fresh_client_v81.py",
+      "origin_path": "tools/1c/designer-bridge/research/run_capture_fresh_client_v81.py",
+      "sha256": "9a4f8bb73e24b3fad8debec4d0aba8f036844fc6099eba77979d1eb7008e9c2c",
+      "bytes": 11653
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/run_gold_startup_v43.py",
+      "origin_path": "tools/1c/designer-bridge/research/run_gold_startup_v43.py",
+      "sha256": "cbfc7282c2c59d84723d47a3195ee575e22c9d53ffe92174ab4fabcd66b4b292",
+      "bytes": 133623
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/run_guardian_stdio_mcp.py",
+      "origin_path": "tools/1c/designer-bridge/research/run_guardian_stdio_mcp.py",
+      "sha256": "bca07e2dd7f0f50e4aa4e2f39028ea36e84c423f663e8e9dcda5e93cfeb5b360",
+      "bytes": 2645
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/run_live_guardian_mcp.py",
+      "origin_path": "tools/1c/designer-bridge/research/run_live_guardian_mcp.py",
+      "sha256": "110625cdb57df54a92d4321c06ef69262be92803be2d5ed1513431782dac55a7",
+      "bytes": 974
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/run_stable_guardian_mcp.py",
+      "origin_path": "tools/1c/designer-bridge/research/run_stable_guardian_mcp.py",
+      "sha256": "d53dda3c09e76ca4eb35471fb9dc21b47d7476658a69261f11cf47782ba1b52d",
+      "bytes": 1159
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/runner_composite_v249.py",
+      "origin_path": "tools/1c/designer-bridge/research/runner_composite_v249.py",
+      "sha256": "a27af50b026f444f16aa66feaabc7cbfb842126d1b8f87eae53c38e802cfcf4d",
+      "bytes": 24538
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/runner_write_admission_v258.py",
+      "origin_path": "tools/1c/designer-bridge/research/runner_write_admission_v258.py",
+      "sha256": "4db843500a1542d64b6f1e68346cd1ccf00f6e3f5bfed46f9c0a4f1eb05cb7a9",
+      "bytes": 24104
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/runner_writer_dispatch.py",
+      "origin_path": "tools/1c/designer-bridge/research/runner_writer_dispatch.py",
+      "sha256": "f50c65792026e3299cc4ab75dc5006fa0c2f57553ea1b03c1a9c9e9157d93aff",
+      "bytes": 16455
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/runner_writer_stage_v263.py",
+      "origin_path": "tools/1c/designer-bridge/research/runner_writer_stage_v263.py",
+      "sha256": "f4fea8a7f7aeda99a904610d733e554f20f0cbaffdcea512a965c026f6c58208",
+      "bytes": 15874
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/safe_saved_module_ram_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/safe_saved_module_ram_operation.py",
+      "sha256": "6e3d115c9b3423c930c903707f9f548ce7e61fab4e1ce142ee8061149b4293fe",
+      "bytes": 30213
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/saved_ram_session_closure_audit.py",
+      "origin_path": "tools/1c/designer-bridge/research/saved_ram_session_closure_audit.py",
+      "sha256": "f88100f76c9b1663d163cd50f62078a0ea214d157ed3095599f856bb3db573d6",
+      "bytes": 13447
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sdk_compiler_section_identity.py",
+      "origin_path": "tools/1c/designer-bridge/research/sdk_compiler_section_identity.py",
+      "sha256": "6f63f39ddcd8f1e3db9c25ca866e7faa89f6a8bc2be54dfd49dc958952f9754d",
+      "bytes": 2802
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sheet_notify_bootstrap_recipe.py",
+      "origin_path": "tools/1c/designer-bridge/research/sheet_notify_bootstrap_recipe.py",
+      "sha256": "e98df896da014d4ad1d5524c527a91083788b864b2afcde9ac8794ea60470c25",
+      "bytes": 17145
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sheet_notify_main_closure.py",
+      "origin_path": "tools/1c/designer-bridge/research/sheet_notify_main_closure.py",
+      "sha256": "472dcd9f76ea1a347330aeaacb2455df0841219f95d7560c6a1aa5d07071e3aa",
+      "bytes": 9748
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sheet_notify_pending_editor_recipe.py",
+      "origin_path": "tools/1c/designer-bridge/research/sheet_notify_pending_editor_recipe.py",
+      "sha256": "73ff4c1a3123cddf699154cc59a634ee3dd3a5b147f82c2166ee511d355d0534",
+      "bytes": 4111
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sheet_notify_pending_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/sheet_notify_pending_read.py",
+      "sha256": "825e7926d8eb8ab360d6413251d661f64be415e97c6ff3073b97ff77d39b4d7a",
+      "bytes": 16798
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sheet_notify_pending_resource_recipe.py",
+      "origin_path": "tools/1c/designer-bridge/research/sheet_notify_pending_resource_recipe.py",
+      "sha256": "a26438d2af7e6bf54dad5ecc6a35c222151a1f019d492c7e156f10841cb9be3a",
+      "bytes": 2786
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sheet_notify_pending_save_recipe.py",
+      "origin_path": "tools/1c/designer-bridge/research/sheet_notify_pending_save_recipe.py",
+      "sha256": "4edf3b7d11098e607a4933067c28ee4a51c73ea0e15034b8e63fd99184615518",
+      "bytes": 3325
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/sheet_notify_save_recipe.py",
+      "origin_path": "tools/1c/designer-bridge/research/sheet_notify_save_recipe.py",
+      "sha256": "4470f05508b92173c034c0adc919919f7938b5656c1a0c7c28fe25683e7f7864",
+      "bytes": 4903
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/source_dependency_closure_v124.py",
+      "origin_path": "tools/1c/designer-bridge/research/source_dependency_closure_v124.py",
+      "sha256": "07b04a78b5f310b85b4548e414306094663d535a381b61af01ea6acfd8a9f5ef",
+      "bytes": 4339
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/startup_metadata_refusal_audit.py",
+      "origin_path": "tools/1c/designer-bridge/research/startup_metadata_refusal_audit.py",
+      "sha256": "5dfc07b84a6295431ef1d43da844cf44bd47990ae6fa77d5e005a127b87a05f2",
+      "bytes": 12079
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/statistic_packet_guard_v54.py",
+      "origin_path": "tools/1c/designer-bridge/research/statistic_packet_guard_v54.py",
+      "sha256": "354b3835dc57bd7e9bbb302acc0a13cc625076c2325e7127cb9e59c60ce2e805",
+      "bytes": 3045
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/stock_capture_selection_contract_v96.py",
+      "origin_path": "tools/1c/designer-bridge/research/stock_capture_selection_contract_v96.py",
+      "sha256": "8eae6ecf727b98143bbeb2488cfda7685287707ae1f359db5332dc0d716e570f",
+      "bytes": 16137
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/stock_main_db_comparison_result_route_v173.py",
+      "origin_path": "tools/1c/designer-bridge/research/stock_main_db_comparison_result_route_v173.py",
+      "sha256": "625075196177edf9dc0f157065377db3dc6659b244a318835bb5830e2c77e73f",
+      "bytes": 10704
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/stock_selection_inventory_contract_v106.py",
+      "origin_path": "tools/1c/designer-bridge/research/stock_selection_inventory_contract_v106.py",
+      "sha256": "206a0f7df3412c80c4ec4b3b47675d43c2bc9fe8b784fee6458d660a2358ffe6",
+      "bytes": 6141
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/stock_selection_inventory_guard_v106.py",
+      "origin_path": "tools/1c/designer-bridge/research/stock_selection_inventory_guard_v106.py",
+      "sha256": "52ae5daf77fddbb6beac3a8691654db758d33e007686c36d695d66aaf28a268a",
+      "bytes": 9291
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/stop_original_v40.py",
+      "origin_path": "tools/1c/designer-bridge/research/stop_original_v40.py",
+      "sha256": "462542d1d6439249ee56960e31127beed7f9faa4445d1d8c46f4b3a68d0fbeaf",
+      "bytes": 6503
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/synthetic_events_carrier.py",
+      "origin_path": "tools/1c/designer-bridge/research/synthetic_events_carrier.py",
+      "sha256": "3872a68db23f505ff909651409355a71982f57bafd7321e89b42a5922c6bbd87",
+      "bytes": 1337
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/synthetic_events_compat_guard.py",
+      "origin_path": "tools/1c/designer-bridge/research/synthetic_events_compat_guard.py",
+      "sha256": "590002e76a382bbf4ce2a44b90daa5e4907ea6b476dc91dc5af8ef50eb1b5ae9",
+      "bytes": 6866
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/synthetic_events_environment_vm_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/synthetic_events_environment_vm_read.py",
+      "sha256": "f35411be8e61ec6be5a70bd9612b5d0478edc349c4133d9cf73038acf4fc0a19",
+      "bytes": 6531
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/synthetic_events_guard.py",
+      "origin_path": "tools/1c/designer-bridge/research/synthetic_events_guard.py",
+      "sha256": "6ec84a5e584f51e78cf44c3748ca4c153f9acb5dfc7c044d12ca88213b59bb3a",
+      "bytes": 5752
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/synthetic_events_normal_guard.py",
+      "origin_path": "tools/1c/designer-bridge/research/synthetic_events_normal_guard.py",
+      "sha256": "63da0c7e06e5784d0bd0d5382cafa1d02c4dd6a5541a9bed27a21cf8cb7b959d",
+      "bytes": 10910
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/synthetic_events_roundtrip.py",
+      "origin_path": "tools/1c/designer-bridge/research/synthetic_events_roundtrip.py",
+      "sha256": "18f5b03ceba04720049320e2f0fdbc67753f0db64a1cd5cf80e0a7e7c0e932a9",
+      "bytes": 19109
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/Test-NativeCommandResultBudgetV101.ps1",
+      "origin_path": "tools/1c/designer-bridge/research/Test-NativeCommandResultBudgetV101.ps1",
+      "sha256": "f37a638aaf32209458227a87b557dc1dd02c5092d94b08a958f99a5a27648646",
+      "bytes": 7430
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/update_first_context_completion_audit.py",
+      "origin_path": "tools/1c/designer-bridge/research/update_first_context_completion_audit.py",
+      "sha256": "601e79e0e477add3d55564677833f043676e3c68cdaeed381f4f9d0097dcc005",
+      "bytes": 16140
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/update_owner_config_route_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/update_owner_config_route_primary.py",
+      "sha256": "10d9e240460b6e43376c5831253d5ba2a9dd4cee43207a2764321043bf9857a6",
+      "bytes": 10751
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/update_owner_delegate_rejection_primary.py",
+      "origin_path": "tools/1c/designer-bridge/research/update_owner_delegate_rejection_primary.py",
+      "sha256": "d1ea92d517c4bcfb097c6fbf224d2f42d16c95e8b2ea4203fa45920156c918b2",
+      "bytes": 3740
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/update_owner_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/update_owner_read.py",
+      "sha256": "fc77ee470a55be9994b73d0d89658dabae62481f2c8b20a0ff3fa488bec7244d",
+      "bytes": 16467
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/update_owner_runtime_read.py",
+      "origin_path": "tools/1c/designer-bridge/research/update_owner_runtime_read.py",
+      "sha256": "0936a379fbe06b2d0c024c472a829cf86643ab1979dc2422209f0d5d8afd6b62",
+      "bytes": 13514
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/update_preview_refusal_audit.py",
+      "origin_path": "tools/1c/designer-bridge/research/update_preview_refusal_audit.py",
+      "sha256": "cd4540fd54a0fa038835300a11294f9f54526f25c6ea23154fcc2b4979be69b7",
+      "bytes": 15419
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/update_preview_source.py",
+      "origin_path": "tools/1c/designer-bridge/research/update_preview_source.py",
+      "sha256": "4469b6217c7f4bf05f71239ee8b87c21cf88b85b0348a1659587a19e3182914c",
+      "bytes": 2206
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/workday_episode_evidence.py",
+      "origin_path": "tools/1c/designer-bridge/research/workday_episode_evidence.py",
+      "sha256": "9d3a2be280d5b0c84028b361a4e0baa3c4d5f23d8fa56739f87195aa060bebf5",
+      "bytes": 18419
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/workday_guardian_closure_audit.py",
+      "origin_path": "tools/1c/designer-bridge/research/workday_guardian_closure_audit.py",
+      "sha256": "f63c4b4c685fc32aab20aba06adfe6a1dd8a15819dca3599ab1741794890a354",
+      "bytes": 35422
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/workday_guardian_host.py",
+      "origin_path": "tools/1c/designer-bridge/research/workday_guardian_host.py",
+      "sha256": "e1029f19979af80736eef2da3d9e6359d089b7c93d45edcac8fa6d1c9d4e81ca",
+      "bytes": 5843
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/workday_ram_carrier.py",
+      "origin_path": "tools/1c/designer-bridge/research/workday_ram_carrier.py",
+      "sha256": "ff59538b81fd2266e3e9f62912d79c20fb1f30b932c650a6659de0e1855f5f25",
+      "bytes": 4891
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/research/workday_saved_module_operation.py",
+      "origin_path": "tools/1c/designer-bridge/research/workday_saved_module_operation.py",
+      "sha256": "071a49efd8f610e66fea01b1116623b13f145fe1c124aa2a862a5e1503d40df7",
+      "bytes": 38898
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/TargetedLoader.cs",
+      "origin_path": "tools/1c/designer-bridge/TargetedLoader.cs",
+      "sha256": "062e66ac6a2983785b140d7cacde343019e55c10aaada1973ec3e011fa8f67e1",
+      "bytes": 13192
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/command_buffer_guard.py",
+      "origin_path": "tools/1c/designer-bridge/tests/command_buffer_guard.py",
+      "sha256": "f920600aceab57cdeeeba212d710037aa490124c732070447d649cf4f590b2ba",
+      "bytes": 3061
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/module_resource_codec.py",
+      "origin_path": "tools/1c/designer-bridge/tests/module_resource_codec.py",
+      "sha256": "5b5ccb1b23809ed2832d12034d203163299657357bfac8c9f65de651e7d485a2",
+      "bytes": 6659
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/owned_cf_codec.py",
+      "origin_path": "tools/1c/designer-bridge/tests/owned_cf_codec.py",
+      "sha256": "38df9a4d7bf6d45b015b99d0620d716df7bcd819559897b21d9e79cdd9a05bdc",
+      "bytes": 10626
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/pending_operation_inspector.py",
+      "origin_path": "tools/1c/designer-bridge/tests/pending_operation_inspector.py",
+      "sha256": "aa64d9ccdfa1efe878c3d7e23fc78a1348b12eacd57327b5179f02266632d32c",
+      "bytes": 9346
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/process_identity.py",
+      "origin_path": "tools/1c/designer-bridge/tests/process_identity.py",
+      "sha256": "b2ae0219c3d7e4e0f2cfe83561d044ebf9a7ec15e32ce9b1f2ae3d2aa596764a",
+      "bytes": 2275
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/run_command_session.py",
+      "origin_path": "tools/1c/designer-bridge/tests/run_command_session.py",
+      "sha256": "1abf3dea28982c038d7dda687fa384aba2803070dcf7892275fda4cef5fa8621",
+      "bytes": 17753
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/run_owned_object_form.py",
+      "origin_path": "tools/1c/designer-bridge/tests/run_owned_object_form.py",
+      "sha256": "707a9b6b540b237f25e7fdd1b07f6f46af913e7e7644d10a66573b458e90d48a",
+      "bytes": 25339
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/run_pipe_read.py",
+      "origin_path": "tools/1c/designer-bridge/tests/run_pipe_read.py",
+      "sha256": "d4537b2cdcdc25bbe2a6212f1cf6e864adbf2f3cc1b38aeb33548743a61f0ddb",
+      "bytes": 8162
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/run_repository_observe.py",
+      "origin_path": "tools/1c/designer-bridge/tests/run_repository_observe.py",
+      "sha256": "c59a3d73ef5509019075d3eb1eb0abd0838c0644dc36bc569cb543ef292e59f5",
+      "bytes": 14720
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/run_repository_source.py",
+      "origin_path": "tools/1c/designer-bridge/tests/run_repository_source.py",
+      "sha256": "02b496198d88d97a11cdd51ced49411125b27615ee6d17a108682b5a373fd184",
+      "bytes": 14823
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/saved_pilot_codec.py",
+      "origin_path": "tools/1c/designer-bridge/tests/saved_pilot_codec.py",
+      "sha256": "45896551a77b36036e0ee60a0c5a4addbc8515bae63345de908e524e2f1ee023",
+      "bytes": 9001
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/test_editor_change_plan.py",
+      "origin_path": "tools/1c/designer-bridge/tests/test_editor_change_plan.py",
+      "sha256": "977245052fd9459bde10ed19da69a76be44eef24401a31bd1f44f898f0fbd2f1",
+      "bytes": 13266
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/test_editor_command.py",
+      "origin_path": "tools/1c/designer-bridge/tests/test_editor_command.py",
+      "sha256": "fc0e8bbb2447433ec8c0acb9dca66dc4d478050a07ce8bc4f4f186b0f9144a96",
+      "bytes": 22637
+    },
+    {
+      "path": "source/tools/1c/designer-bridge/tests/test_editor_transport.py",
+      "origin_path": "tools/1c/designer-bridge/tests/test_editor_transport.py",
+      "sha256": "44c49a01bffc4c27610ebb7786dcf764d0a2434789952409e4399f1df709e296",
+      "bytes": 32881
+    }
+  ],
+  "snapshot_sha256": "0f4d81b07047fdda976522c0028d80bb0c368557eaf02f47085e36f6a82363ea"
+}

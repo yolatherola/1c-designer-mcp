@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "name": "1c-designer-mcp",
+  "repository": "https://github.com/yolatherola/1c-designer-mcp",
+  "stage": "technical-source-extraction-preview",
+  "license": null,
+  "source_directory": "source",
+  "canonical_source_switched": false,
+  "standalone_runtime_verified": false,
+  "source_publication_approved": true,
+  "public_release_approved": false,
+  "selected_unit_suites": [
+    "test_editor_command",
+    "test_editor_change_plan",
+    "test_editor_transport"
+  ]
+}
