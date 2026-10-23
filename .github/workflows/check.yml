@@ -27,3 +27,5 @@ jobs:
         env:
           CC: cc
         run: python -B -m unittest discover -s components/saved-resource-diagnostics/tests -p 'test_*.py' -v
+      - name: Test opt-in early terminal feedback with portable fake pipes
+        run: python -B -m unittest discover -s components/early-terminal-feedback/tests -p 'test_*.py' -v

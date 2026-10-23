@@ -63,6 +63,9 @@ class PublicationReviewTests(unittest.TestCase):
         return root
 
     COMPONENT_FILES = (
+        'components/early-terminal-feedback/README.md',
+        'components/early-terminal-feedback/early_terminal_feedback.py',
+        'components/early-terminal-feedback/tests/test_early_terminal_feedback.py',
         "components/saved-resource-diagnostics/README.md",
         "components/saved-resource-diagnostics/policy_saved_null_certificate.py",
         "components/saved-resource-diagnostics/policy_saved_reason_memory.py",
