@@ -24,6 +24,8 @@ SUPPORT_FILES = frozenset({
     "components/saved-resource-diagnostics/README.md",
     "components/saved-resource-diagnostics/policy_saved_null_certificate.py",
     "components/saved-resource-diagnostics/policy_saved_reason_memory.py",
+    "components/saved-resource-diagnostics/backend_reason_certificate.py",
+    "components/saved-resource-diagnostics/tests/test_backend_reason_certificate.py",
     "components/saved-resource-diagnostics/tests/test_saved_resource_diagnostics.py",
 })
 SOURCE_SUFFIXES = frozenset({".py", ".as", ".c", ".h", ".cs", ".ps1", ".js", ".cjs"})
