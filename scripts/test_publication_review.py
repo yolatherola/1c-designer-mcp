@@ -1,8 +1,11 @@
-"""Synthetic negative cases for the publication guard; no native imports or I/O."""
+"""Synthetic publication roots and negative guards; no native calls or network."""
 
+from pathlib import Path
+import tempfile
 import unittest
+from unittest.mock import patch
 
-from review_publication import safe_source_path, scan_text
+from review_publication import SUPPORT_FILES, review, safe_source_path, scan_text
 
 
 class PublicationReviewTests(unittest.TestCase):
@@ -43,6 +46,57 @@ class PublicationReviewTests(unittest.TestCase):
     def test_literal_secret_is_blocked(self):
         text = "password = '" + "synthetic-password" + "'"
         self.assertEqual(scan_text("example.py", text)[0]["rule"], "LITERAL_SECRET")
+
+
+    def _component_publication_fixture(self):
+        directory = tempfile.TemporaryDirectory(prefix="publication-component-")
+        self.addCleanup(directory.cleanup)
+        root = Path(directory.name)
+        for relative in SUPPORT_FILES:
+            path = root / relative
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text("synthetic support file\n", encoding="utf-8")
+        (root / "SOURCE_MANIFEST.json").write_text('{"files":[]}\n', encoding="utf-8")
+        actual_root = Path(__file__).resolve().parents[1]
+        for relative in self.COMPONENT_FILES:
+            (root / relative).write_bytes((actual_root / relative).read_bytes())
+        return root
+
+    COMPONENT_FILES = (
+        'components/early-terminal-feedback/README.md',
+        'components/early-terminal-feedback/early_terminal_feedback.py',
+        'components/early-terminal-feedback/tests/test_early_terminal_feedback.py',
+        "components/saved-resource-diagnostics/README.md",
+        "components/saved-resource-diagnostics/policy_saved_null_certificate.py",
+        "components/saved-resource-diagnostics/policy_saved_reason_memory.py",
+        "components/saved-resource-diagnostics/backend_reason_certificate.py",
+        "components/saved-resource-diagnostics/tests/test_backend_reason_certificate.py",
+        "components/saved-resource-diagnostics/tests/test_saved_resource_diagnostics.py",
+    )
+
+    def test_exact_component_allowlist_and_actual_text_files_pass(self):
+        component = {p for p in SUPPORT_FILES if p.startswith("components/")}
+        self.assertEqual(component, set(self.COMPONENT_FILES))
+        result = review(self._component_publication_fixture())
+        self.assertTrue(result["passed"], result["findings"])
+        self.assertEqual(result["files_reviewed"], len(SUPPORT_FILES))
+
+    def test_unknown_component_file_is_rejected_before_read(self):
+        root = self._component_publication_fixture()
+        extra = root / "components/saved-resource-diagnostics/tests/extra.py"
+        extra.write_text("synthetic unlisted file\n", encoding="utf-8")
+        original = Path.read_bytes
+        def only_listed(path):
+            if path == extra:
+                raise AssertionError("UNLISTED_FILE_WAS_READ")
+            return original(path)
+        with patch.object(Path, "read_bytes", only_listed):
+            result = review(root)
+        self.assertFalse(result["passed"])
+        self.assertEqual(result["findings"], [dict(
+            path="components/saved-resource-diagnostics/tests/extra.py",
+            rule="UNLISTED_FILE_NOT_READ")])
+
 
 
 if __name__ == "__main__":
